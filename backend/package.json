@@ -12,6 +12,7 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "@dotenvx/dotenvx": "^1.48.3",
     "@upstash/redis": "^1.35.1",
     "bcryptjs": "^3.0.2",
     "cloudinary": "^2.7.0",
